@@ -1,6 +1,6 @@
 # Dust Particles
 
-A Flutter project to display floating dust particles (dust specks). I was going for a subtle effect that could be overlaid on top of background artwork.  The code is commented and could easily be changed for a more prominent effect.
+A Flutter project to display floating dust particles (dust specks). I was going for a subtle effect that could be overlaid on top of background artwork.  The code is commented and could easily be changed for a more prominent or varying effect.  Final result vs. Visible Animation:
 
 ![](https://github.com/joeycollier/dust_particles/blob/main/assets/example1.gif)
 &nbsp;&nbsp;&nbsp;
