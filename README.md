@@ -33,4 +33,4 @@ This project was built using a standard flutter install.  The primary files adde
 * LICENSE, README.md, assets/example1.gif, & assets/example2.gif
 
 ## Copyright & License
-Code and documentation Copyright (c) 2023 <a href="https://joeycollier.com/">Joey Collier</a>. Code released under the BSD 3-Clause License.
+Code and documentation Copyright (c) 2023 <a href="https://joeycollier.com/">Joey Collier</a>. Code released under the <a href="https://github.com/joeycollier/dust_particles/blob/main/LICENSE">BSD 3-Clause License</a>.
